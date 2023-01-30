@@ -10,7 +10,7 @@ Before we run the project, make sure that you are having MongoDB in your local s
 
 ### Step 1-: Clone the Repository
 ```
-git clone https://github.com/Deep-Learning-01/Deep-Authenticator-Frontend.git
+git clone https://github.com/Abdul-Jaweed/Face-Authenticator-Frontend.git
 ```
 
 ### Step 2-: Creat conda environment
